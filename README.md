@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Go to Solution](https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-advice-generator-ToI4CcTrxj)
-- Live Site URL: [Go to Live Site](https://your-live-site-url.com](https://frontend-mentor-advice-generator-app-main-pi.vercel.app/)
+- Solution URL: [Go to Solution](https://www.frontendmentor.io/solutions/responsive-advice-generator-ToI4CcTrxj)
+- Live Site URL: [Go to live site](https://frontend-mentor-advice-generator-app-main-pi.vercel.app/)
 
 ## My process
 
