@@ -62,7 +62,7 @@ async function generateAdvice() {
 
 ### Continued development
 
-I want to improve my skills using APIs
+I want to improve my skills using APIs.
 
 ## Author
 
