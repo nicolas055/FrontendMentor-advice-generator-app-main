@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot] (/screenshots/screenshot.jpg)
+![Screenshot](/screenshots/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Go to Solution](https://www.frontendmentor.io/solutions/responsive-advice-generator-ToI4CcTrxj)
+- Live Site URL: [Go to live site](https://frontend-mentor-advice-generator-app-main-pi.vercel.app/)
 
 ## My process
 
