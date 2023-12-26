@@ -57,6 +57,10 @@ body {
     padding: 0 45px;
 }
 
+.adviceText {
+    font-size: 25px;
+}
+
 .getAdvice {
     margin-top: 15px;
     background-color: var(--Neon-Green);
